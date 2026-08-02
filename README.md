@@ -24,8 +24,6 @@ This Chrome extension turns your browser into an instant data labeling and AI op
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://mythicalgamer2.gumroad.com/l/vjvpby)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/cNi5kDfXx1g0cVW9rKcZq43)** — Secure checkout
 
 ## Installation
@@ -37,7 +35,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://mythicalgamer2.gumroad.com/l/vjvpby)
 
 ## License
 
